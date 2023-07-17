@@ -1,6 +1,6 @@
 
 ######################## default configuration ####################
-baseURL = "https://devday4w.com/"
+baseURL = "http://icphublatam.org//"
 title = "Nativo Crypto"
 enableRobotsTXT = true
 DefaultContentLanguage = "es"
